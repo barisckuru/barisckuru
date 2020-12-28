@@ -12,7 +12,7 @@ Currently working on my master's thesis project on: ✍🏽
 - integrating grid cell outputs to a biophysically realistic dentate gyrus
 - investigating the effect of pattern separation on grid cell phase and rate coding
 - investigating role of inhibition in dentate gyrus on pattern separation
-- comparing the efficacy of rate, phase and complex(rate&phase) codes by a perceptron
+- assessing the efficacy of rate, phase and complex(rate&phase) codes by a perceptron
 
 further @grid_cell and @pyDentate repositories on github
 
