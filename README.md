@@ -13,7 +13,8 @@ Currently working on my master thesis project: ✍🏽
 - observing the effect of pattern separation on grid cell codes
 - investigating role of inhibition in dentate gyrus on pattern separation
 - comparing the efficacy of rate, phase and complex(rate&phase) codes by a perceptron
-@grid_cell and @pyDentate repositories on github
+
+further @grid_cell and @pyDentate repositories on github
 
 Interested in: 👁
 - computational dynamics of memory encoding-recalling in the brain
