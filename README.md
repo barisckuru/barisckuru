@@ -7,7 +7,7 @@
 --> 
 
 Currently working on my master thesis project: ✍🏽
-- with @grid_cell & @pyDentate repositories
+- with @grid_cell and @pyDentate repositories
 - modelling entorhinal grid cell outputs
 - obtaining population rate code and phase code
 - feeding grid cell outputs to a biophysically realistic dentate gyrus
