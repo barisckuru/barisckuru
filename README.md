@@ -6,7 +6,7 @@
 
 --> 
 
-Currently working on my master thesis project on: ✍🏽
+Currently working on my master's thesis project on: ✍🏽
 - modelling entorhinal grid cell outputs
 - obtaining population rate code and phase code
 - integrating grid cell outputs to a biophysically realistic dentate gyrus
@@ -17,7 +17,7 @@ Currently working on my master thesis project on: ✍🏽
 further @grid_cell and @pyDentate repositories on github
 
 Interested in: 👁
-- computational dynamics of memory encoding-recalling in the brain
+- computational dynamics of memory encoding, storage and retrieval in the brain
 - mechanisms for information transfer in the brain
 - function of neural oscillations
 - role of inhibitory interneurons
