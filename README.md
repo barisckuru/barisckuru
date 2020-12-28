@@ -3,16 +3,6 @@
 <!--
 **barisckuru/barisckuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 --> I am currently working on my master thesis project on:
 - modelling entorhinal grid cell outputs
 - obtaining population rate code and phase code
@@ -20,3 +10,11 @@ Here are some ideas to get you started:
 - observing the effect of pattern separation on grid cell codes
 - investigating role of inhibition in dentate gyrus on pattern separation
 - comparing the efficacy of rate, phase and complex(rate&phase) codes by a perceptron
+
+--> I am interested in:
+- computational dynamics of memory encoding-recalling in the brain
+- mechanisms for information transfer in the brain
+- funciton of neural oscillations
+- role of inhibitory interneurons
+- recurrent neural networks
+- human - machine interfaces
