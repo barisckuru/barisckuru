@@ -10,7 +10,7 @@ Currently working on my master thesis project: ✍🏽
 - modelling entorhinal grid cell outputs
 - obtaining population rate code and phase code
 - feeding grid cell outputs to a biophysically realistic dentate gyrus
-- observing the effect of pattern separation on grid cell codes
+- observing the effect of pattern separation on grid cell phase and rate coding
 - investigating role of inhibition in dentate gyrus on pattern separation
 - comparing the efficacy of rate, phase and complex(rate&phase) codes by a perceptron
 
